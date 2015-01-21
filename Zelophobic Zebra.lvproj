@@ -112,7 +112,8 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="Support Code" Type="Folder">
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
-			<Item Name="intake.vi" Type="VI" URL="../intake.vi"/>
+			<Item Name="Intake.vi" Type="VI" URL="../Intake.vi"/>
+			<Item Name="Lift Cycles.vi" Type="VI" URL="../ZZ Dash/Lift Cycles.vi"/>
 			<Item Name="Lift.vi" Type="VI" URL="../Lift.vi"/>
 			<Item Name="Tilt.vi" Type="VI" URL="../Tilt.vi"/>
 		</Item>
