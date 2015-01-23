@@ -114,7 +114,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Drive Distance.vi" Type="VI" URL="../Drive Distance.vi"/>
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 			<Item Name="EncoderDistance.vi" Type="VI" URL="../EncoderDistance.vi"/>
-			<Item Name="intake.vi" Type="VI" URL="../intake.vi"/>
+			<Item Name="Intake.vi" Type="VI" URL="../Intake.vi"/>
 			<Item Name="Lift Cycles.vi" Type="VI" URL="../ZZ Dash/Lift Cycles.vi"/>
 			<Item Name="Lift.vi" Type="VI" URL="../Lift.vi"/>
 			<Item Name="Tilt.vi" Type="VI" URL="../Tilt.vi"/>
@@ -130,6 +130,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Test.vi" Type="VI" URL="../Test.vi"/>
 			<Item Name="Vision Processing.vi" Type="VI" URL="../Vision Processing.vi"/>
 		</Item>
+		<Item Name="EncoderMove.vi" Type="VI" URL="../EncoderMove.vi"/>
 		<Item Name="MotorMove.vi" Type="VI" URL="../MotorMove.vi"/>
 		<Item Name="Robot Main.vi" Type="VI" URL="../Robot Main.vi"/>
 		<Item Name="Dependencies" Type="Dependencies">
