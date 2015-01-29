@@ -111,6 +111,7 @@ AddOutputFilter chunkFilter
 		<Property Name="target.webservices.SecurityAPIKey" Type="Str">PqVr/ifkAQh+lVrdPIykXlFvg12GhhQFR8H9cUhphgg=:pTe9HRlQuMfJxAG6QCGq7UvoUpJzAzWGKy5SbZ+roSU=</Property>
 		<Property Name="target.webservices.ValidTimestampWindow" Type="Int">15</Property>
 		<Item Name="Support Code" Type="Folder">
+			<Item Name="DriveForwardAuto.vi" Type="VI" URL="../DriveForwardAuto.vi"/>
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
 			<Item Name="intake.vi" Type="VI" URL="../intake.vi"/>
 			<Item Name="Lift Cycles.vi" Type="VI" URL="../ZZ Dash/Lift Cycles.vi"/>
