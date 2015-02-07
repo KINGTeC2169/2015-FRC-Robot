@@ -116,6 +116,7 @@ AddOutputFilter chunkFilter
 			<Item Name="Intake.vi" Type="VI" URL="../Intake.vi"/>
 			<Item Name="Lift Cycles.vi" Type="VI" URL="../ZZ Dash/Lift Cycles.vi"/>
 			<Item Name="Lift.vi" Type="VI" URL="../Lift.vi"/>
+			<Item Name="OneToteAuto.vi" Type="VI" URL="../OneToteAuto.vi"/>
 			<Item Name="Tilt.vi" Type="VI" URL="../Tilt.vi"/>
 		</Item>
 		<Item Name="Team Code" Type="Folder">
