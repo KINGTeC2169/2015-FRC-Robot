@@ -113,6 +113,7 @@ AddOutputFilter chunkFilter
 		<Item Name="Support Code" Type="Folder">
 			<Item Name="AutoTurning.vi" Type="VI" URL="../ZZ Dash/AutoTurning.vi"/>
 			<Item Name="AutoTurnOneSide.vi" Type="VI" URL="../ZZ Dash/AutoTurnOneSide.vi"/>
+			<Item Name="BinClamp.vi" Type="VI" URL="../BinClamp.vi"/>
 			<Item Name="clamps.vi" Type="VI" URL="../clamps.vi"/>
 			<Item Name="DriveForwardAuto.vi" Type="VI" URL="../DriveForwardAuto.vi"/>
 			<Item Name="Elapsed Times.vi" Type="VI" URL="../Elapsed Times.vi"/>
